@@ -9,8 +9,12 @@ These are the PrusaSlicer profiles for the printers at Seattle Makers. They are 
 
 This is a bundle of all of the profiles, if you're looking to play with all of them, import these.
 
+### Individual Printers
+
+The folder "Printers" has individual profiles of our printers if you don't want all of the presets for them.
+
 ### PrusaSlicer
 
 Download here: [https://www.prusa3d.com/prusaslicer/](https://www.prusa3d.com/prusaslicer/)
 
-Documentation for getting started: [https://help.prusa3d.com/en/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/en/article/first-print-with-prusaslicer_1753)
+Documentation for getting started: [https://help.prusa3d.com/en/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/en/article/first-print-with-prusaslicer_1753) 
